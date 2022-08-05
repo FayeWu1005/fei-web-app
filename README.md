@@ -1,4 +1,4 @@
-# FEi-APP
+# Fei-APP
 
 - To run this project follow these steps ,
   - clone the repo using `git clone`
